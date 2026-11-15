@@ -3,6 +3,7 @@
 TabScatter is a Windows desktop app that opens four random URLs from `Links.txt`
 in a tiled WebView2 interface. Refresh to pick another set, open a preview in
 an in-app tab, or bookmark a URL to save it back to `Links.txt`.
+<img width="2549" height="1373" alt="{23CC8B4D-6D0B-4C4A-ADE1-5A11D13402C1}" src="https://github.com/user-attachments/assets/6268f041-7abc-4730-b28d-a1045524b485" />
 
 ## Features
 
